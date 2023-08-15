@@ -1,0 +1,21 @@
+/* logo.css */
+
+/* Center the logo horizontally and vertically */
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+/* Style for the logo image */
+.logo {
+  width: 40px; /* Adjust the width as needed */
+  height: 40px; /* Adjust the height as needed */
+  margin-right: 10px; /* Add spacing between the logo and text */
+}
+
+/* Style for the logo text */
+.logo-text {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333; /* Adjust the color as needed */
+}
